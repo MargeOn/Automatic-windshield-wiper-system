@@ -34,8 +34,8 @@ Project này liên quan đến hệ thống điều khiển gạt mưa thủ cô
 
 ![](Image/motorgatmua.png)
 
-- File Arduino viết bằng C++
-- File Labview
+- Code Arduino viết bằng C++
+- Code Labview
 
 ![](Image/Codelabview.png)
 
