@@ -44,6 +44,7 @@ Project này liên quan đến hệ thống điều khiển gạt mưa thủ cô
 - Sơ đồ hệ thống gạt mưa tự động: 
 
 ![](Image/sohohethong.png)
+
 Trong sơ đồ có thể thấy rằng, việc điều khiển tự động chỉ kích hoạt khi chế độ AUTO được bật. Khi đó, Arduino chỉ phụ thuộc vào giá trị cảm biến mưa để điều khiển hệ thống gạt mưa. Và hệ thống không còn điều khiển bởi công tắc gạt mưa nữa. Đây là sự hạn chế của project này. Mọi người có thể phát triển project này thành việc điều khiển chế độ AUTO dựa trên cụm công tắc gạt mưa. 
   - Chế độ NORMAL: công tắc AUTO chưa bật, chế độ auto không hoạt động.
   - Chế độ AUTO: công tắc AUTO bật, arduino nhận tín hiệu điều khiển module relay AUTO, ngắt tiếp điểm COM_AUTO-NC_AUTO và đóng tiếp điểm COM_AUTO-NO_AUTO.
