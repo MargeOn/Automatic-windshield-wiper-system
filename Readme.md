@@ -1,6 +1,6 @@
 # PROJECT: HỆ THỐNG GẠT MƯA TỰ ĐỘNG
 
-- Project này liên quan đến hệ thống điều khiển gạt mưa thủ công và gạt mưa tự động. Project giúp ta có một góc nhìn cơ bản về hệ thống điều khiển điện tử trên xe cũng như trên hệ thống gạt mưa của ô tô. 
+Project này liên quan đến hệ thống điều khiển gạt mưa thủ công và gạt mưa tự động. Project giúp ta có một góc nhìn cơ bản về hệ thống điều khiển điện tử trên xe cũng như trên hệ thống gạt mưa của ô tô. 
 
 ![](Image/Hinhanhgatmuatrenxe.png)
 
