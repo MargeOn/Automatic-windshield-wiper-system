@@ -66,3 +66,7 @@ Giao diện của màn hình Front Panel gồm các chê độ sau:
 Trong chế độ gạt mưa tự động, nó chia thành 2 mức interrupt của motor gạt mưa: 
   - Khi cảm biến mưa cảm nhận lượng nước ít thì motor gạt mưa sẽ quay ở chế độ low, thời gian interrupt là 4 giây và hiển thị lên màn hình
   - Khi cảm biến mưa cảm nhận lượng nước nhiều thì motor gạt mưa sẽ quay ở chế độ low, thời gian interrupt là 2 giây và hiển thị lên màn hình
+
+Sản phẩm khi hoàn thành: 
+
+![](Image/mohinhhethong.png)
